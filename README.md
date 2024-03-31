@@ -1,12 +1,6 @@
 
 <h1 align="center">Sponsor Bot</h1>
 
-
-
-
-**NOTE:** 
-- Disclaimer -
-Ce bot n'a pas été fait par moi. Je l'ai remis à jour et modifier/améliorer.
 ---
 
 
