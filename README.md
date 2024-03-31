@@ -19,23 +19,11 @@ Ce bot n'a pas été fait par moi. Je l'ai remis à jour et modifier/améliorer.
 - [🕵️‍♂️・Auteurs](#authors)
 
 
-## <a id="deploys"></a>📩 〢 Déployer avec
-[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github/002-sans/Sponsor-Bot)
-
-[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/002-sans/Sponsor-Bot)
-
-[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/002-sans/Sponsor-Bot)
-
-[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/002-sans/Sponsor-Bot)
-
-
-
-
 ## <a id="setup"></a> 📁 〢 Configuration
 1. Installe [NodeJS](https://nodejs.org/en)
-2. Installe [Les fichiers](https://github.com/002-sans/Sponsor-Bot/archive/refs/heads/main.zip)
+2. Installez les fichiers en zip
 3. Configure les fichiers du bots
-4. Clique sur le fichier [start.bat](https://github.com/002-sans/Sponsor-Bot/blob/main/start.bat)
+4. Clique sur le fichier start.bat
 5. Profite du bot
 
 
@@ -71,4 +59,4 @@ v2.0 ⋮ 2023-19-05
 
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Auteurs
-- [Sans](https://github.com/002-sans)
+- [Leavee.exe](https://discord.gg/brigadefr)
